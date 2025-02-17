@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>dotnet-Game-758937e7-c13f-42b9-89da-343b302a21c0</UserSecretsId>
     <StartProject>True</StartProject>
+    <RestorePackagesPath>$(MSBuildProjectDirectory)/vendor/packages</RestorePackagesPath>
   </PropertyGroup>
 
   <ItemGroup>
